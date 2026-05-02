@@ -8,7 +8,7 @@ The workflow includes extracting data from a web page, processing it into a stru
 ---
 🎯 Objectives
 
-The main objectives of this assignment were: <br>
+The main objectives of this project are: <br>
 - Practice Python coding using Jupyter Notebooks on Google Colab
 - Use `requests` and `BeautifulSoup` to extract data from a web page
 - Parse and clean the extracted data
